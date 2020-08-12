@@ -1,0 +1,9 @@
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\bin\Debug\netcoreapp3.1\ObjectModules.deps.json
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\bin\Debug\netcoreapp3.1\ObjectModules.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\bin\Debug\netcoreapp3.1\ObjectModules.pdb
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\obj\Debug\netcoreapp3.1\ObjectModules.AssemblyInfoInputs.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\obj\Debug\netcoreapp3.1\ObjectModules.AssemblyInfo.cs
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\obj\Debug\netcoreapp3.1\ObjectModules.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\obj\Debug\netcoreapp3.1\ObjectModules.pdb
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\obj\Debug\netcoreapp3.1\ObjectModules.csprojAssemblyReference.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\ObjectModules\obj\Debug\netcoreapp3.1\ObjectModules.csproj.CoreCompileInputs.cache

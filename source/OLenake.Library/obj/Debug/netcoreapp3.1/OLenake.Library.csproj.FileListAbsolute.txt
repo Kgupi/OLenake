@@ -1,0 +1,9 @@
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\bin\Debug\netcoreapp3.1\OLenake.Library.deps.json
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\bin\Debug\netcoreapp3.1\OLenake.Library.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\bin\Debug\netcoreapp3.1\OLenake.Library.pdb
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\obj\Debug\netcoreapp3.1\OLenake.Library.csprojAssemblyReference.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\obj\Debug\netcoreapp3.1\OLenake.Library.AssemblyInfoInputs.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\obj\Debug\netcoreapp3.1\OLenake.Library.AssemblyInfo.cs
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\obj\Debug\netcoreapp3.1\OLenake.Library.csproj.CoreCompileInputs.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\obj\Debug\netcoreapp3.1\OLenake.Library.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\OLenake.Library\obj\Debug\netcoreapp3.1\OLenake.Library.pdb

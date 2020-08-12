@@ -1,0 +1,9 @@
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tbAjE8sRjg1pZwnAOSXfmf6QopT88eL/JnHOeRy9h3OrhIy/pkQFbJmCM9Mci7nRowSoTJRmVFriaNd/32gdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kgupi\\Source\\Repos\\OLenake\\source\\ObjectModules\\ObjectModules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kgupi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\Kgupi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Kgupi\\.nuget\\packages\\netcore.autoregisterdi\\2.0.0\\netcore.autoregisterdi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

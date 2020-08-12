@@ -1,0 +1,9 @@
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\bin\Debug\netcoreapp3.1\OnkgopotseLenake.deps.json
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\bin\Debug\netcoreapp3.1\OnkgopotseLenake.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\bin\Debug\netcoreapp3.1\OnkgopotseLenake.pdb
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\obj\Debug\netcoreapp3.1\OnkgopotseLenake.csprojAssemblyReference.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\obj\Debug\netcoreapp3.1\OnkgopotseLenake.AssemblyInfoInputs.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\obj\Debug\netcoreapp3.1\OnkgopotseLenake.AssemblyInfo.cs
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\obj\Debug\netcoreapp3.1\OnkgopotseLenake.csproj.CoreCompileInputs.cache
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\obj\Debug\netcoreapp3.1\OnkgopotseLenake.dll
+C:\Users\Kgupi\Source\Repos\OLenake\source\OnkgopotseLenake\obj\Debug\netcoreapp3.1\OnkgopotseLenake.pdb
