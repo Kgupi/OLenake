@@ -1,9 +1,9 @@
-# OnkgopotseLenake Website
+# OnkgopotseLenake.me
 My personal website.
 
 # WPF-Samples
-This repo contains the samples that demonstrate the API usage patterns and popular features for the Windows Presentation Foundation in the .NET Core for Desktop. These samples were initially hosted on [MSDN](https://msdn.microsoft.com/en-us/library/vstudio/ms771633.aspx), and we are gradually 
-moving all the interesting WPF samples over to GitHub. All the samples have been retargeted to  [.NET Core 3.0](https://github.com/dotnet/core-sdk).
+This repo contains the source code of my **personal portfolio website** , hosted on samples that demonstrate the API usage patterns and popular features for the Windows Presentation Foundation in the .NET Core for Desktop. These samples were initially hosted on [MSDN](https://msdn.microsoft.com/en-us/library/vstudio/ms771633.aspx), and we are gradually 
+moving all the interesting WPF samples over to GitHub. All the samples have been retargeted to  [Onkgopose Lenake](http://onkgopotselenake.me).
 
 You can also find an archive of samples targeting .NET 4.7.2 in the [netframework](https://github.com/microsoft/WPF-Samples/tree/netframework) branch.
 
